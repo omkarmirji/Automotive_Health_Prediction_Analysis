@@ -1,4 +1,4 @@
-Mobile Ads Purchase Prediction
+#Mobile Ads Purchase Prediction
 This project focuses on predicting whether a user will purchase a mobile ad based on certain features. It uses machine learning models, including a neural network, a random forest classifier, and an XGBoost classifier for prediction.
 
 Prerequisites
